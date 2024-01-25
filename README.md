@@ -1,13 +1,17 @@
-# Jogo Numero Secreto
+<h1>Jogo do número secreto</h1>
 
-Projeto desenvolvido para auxiliar nas aulas ONE - Oracle Next Educatio
-- ![alt text](./img/tela_jogo.png)
+<h2>🔖 Sobre</h2>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
+- Link do app: https://jogonumerosecretos.netlify.app
 
-## Tecnologias:
-- Js
-- HTML
-- CSS
+## 🚀 Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
+# Time
 
-Link do app: https://jogonumerosecretos.netlify.app
+| [<img loading="clenildon" src="https://avatars.githubusercontent.com/u/49656737?v=4" width=115><br><sub>Clenildon Ferreira</sub>](https://github.com/ClenildonFerreira) 
